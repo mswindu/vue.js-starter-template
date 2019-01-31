@@ -3,7 +3,6 @@ import Vuetify from 'vuetify/lib';
 
 import 'vuetify/src/stylus/app.styl';
 
-// Внутренние компоненты
 import ru from 'vuetify/es5/locale/ru';
 import store from './store';
 import router from './router';
