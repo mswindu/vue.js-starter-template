@@ -37,7 +37,7 @@ In addition to the command line flags, you can also configure the dev server usi
 yarn lint
 ```
 
-Lints and fixes files. If no specific files are given, it lints all files in src and test.
+Lints and fixes files. If no specific files are given, it lints all files in `src` and `test`.
 
 ```sh
 yarn build
