@@ -1,6 +1,7 @@
 # Vue.js starter template
+[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat)](LICENSE)
 
-Starter-template for a project using [Vue.js] (https://github.com/vuejs/vue) library.
+Starter-template for a project using [Vue.js](https://github.com/vuejs/vue) library.
 
 Built with:
 * [Vue.js](https://github.com/vuejs/vue)
@@ -17,6 +18,10 @@ Built with:
 
 1. Be sure you have [Yarn](https://yarnpkg.com/en/docs/install) installed globally.
 2. Clone the repo & run `yarn` from the project root.
+
+## Directory structure
+
+See [instructions](docs/directory-structure.md)
 
 ## Available commands
 
@@ -45,3 +50,7 @@ yarn test:unit
 ```
 
 Run unit tests with Jest.
+
+## License
+
+[MIT](https://github.com/mswindu/vue.js-starter-template/blob/master/LICENSE)
